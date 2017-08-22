@@ -1,0 +1,24 @@
+{
+  "name": "tide-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.4",
+    "express-graphql": "^0.6.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdkn/tide-api.git"
+  },
+  "author": "tdkn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tdkn/tide-api/issues"
+  },
+  "homepage": "https://github.com/tdkn/tide-api#readme"
+}
